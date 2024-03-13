@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **qing.yo@northeastern.edu**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
