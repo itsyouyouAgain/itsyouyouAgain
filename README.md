@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youying Qing</h1>
-<h3 align="center">A passionate full-stack developer👩‍💻 Actively seeking full-time SDE roles</h3>
+<h3 align="center">A passionate full-stack developer👩‍💻 Actively seeking SDE roles</h3>
 
 - 📫 How to reach me **qing.yo@northeastern.edu**
 
